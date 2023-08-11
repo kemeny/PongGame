@@ -1,5 +1,5 @@
 
-# Pong Game in Python using Pygame
+# Pong Game in Python made with MetaGPT
 
 ## Overview
 This is a simple implementation of the classic Pong game using Python and the Pygame library. The game features two paddles and a bouncing ball. The objective is to prevent the ball from passing your paddle. Each time a player misses the ball, the opponent gets a point.
