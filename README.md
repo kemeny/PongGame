@@ -4,7 +4,7 @@
 ## Overview
 This simple implementation of the classic Pong game using Python and the Pygame library. The game features two paddles and a bouncing ball. The objective is to prevent the ball from passing your paddle. Each time a player misses the ball, the opponent gets a point.
 
-This game was created (mostly) automatically using MetaGPT and ChatGPT Code Interpreter. 
+This game was created (mostly) automatically using [MetaGPT](https://github.com/geekan/MetaGPT/) and ChatGPT Code Interpreter. 
 
 [Read more about this here (spanish)](https://open.substack.com/pub/viernes/p/metagpt-una-ia-que-transforma-conceptos)
 
